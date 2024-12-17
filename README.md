@@ -1,10 +1,6 @@
-# Github-Helper-Plugin
-Plugin for VS Code that simplifies github interaction
-Author: Grishin Artem M3104
-
 # Github Helper Plugin
 
-## Author: Grishin Artem M3104
+Author: Grishin Artem M3104
 
 ## Description
 
