@@ -4,7 +4,7 @@ Author: Grishin Artem M3104
 
 ## Description
 
-**Github Helper** is an extension for **Visual Studio Code** designed to simplify interaction with the **Git** version control system.
+**Github Helper** is an extension for Visual Studio Code designed to simplify interaction with the Git version control system.
 
 With this plugin, you can perform essential Git operations, such as adding files to the index, removing files from the index, and displaying the repository status, directly within your development environment without switching to the command line, significantly improving productivity.
 
